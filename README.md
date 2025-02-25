@@ -27,7 +27,8 @@ This repository is organized into two main folders:
 ---
 
 ## 🛠 Technologies Used
-- **Python** for data extraction and automation  
+- **Python** for data extraction and automation 
+- **sql** for data extraction
 - **Linux Shell Scripting** for server-side operations  
 - **Google Sheets API** for uploading data  
 - **Cron Jobs / Task Scheduler** for automation  
