@@ -1,0 +1,11 @@
+The pem file is attached.
+
+Command to connect it AWS Instance
+
+ssh -i "emami-script-partha.pem" ec2-user@ec2-13-201-35-72.ap-south-1.compute.amazonaws.com
+
+Once you connect to the machine, go to the subfolder kumarrohit and keep all your files there. Use the command cd kumarrohit to go to this folder.
+For copying files from/to VM, use scp command. You can google for it to know more.
+
+how to connect to WinSCP using pem file/ppk file/private key : https://www.youtube.com/watch?v=uRayBxToMYI
+

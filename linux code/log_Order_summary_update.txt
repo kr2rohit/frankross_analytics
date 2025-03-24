@@ -1,0 +1,1 @@
+2025-03-21 17:53:31,606 - INFO - Schedule the task to run every hour
